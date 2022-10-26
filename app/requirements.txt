@@ -1,0 +1,8 @@
+psutil
+Flask
+Flask-Session
+Flask-WTF
+WTForms
+GPUtil
+gunicorn
+Werkzeug==2.0.0
